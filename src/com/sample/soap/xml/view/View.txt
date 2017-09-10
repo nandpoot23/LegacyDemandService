@@ -1,0 +1,2 @@
+http://localhost:8080/LegacyDemandService/services
+http://localhost:8080/LegacyDemandService/services/DmService/1.0?wsdl
